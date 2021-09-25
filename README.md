@@ -4,7 +4,7 @@
 - 📫 You can reach me through discord, twitter or telegram
 
 ✨ Socials ✨
-Discord -> Targeters#1176
-Discord Server -> discord.gg/YgP2njQh5c
-Twitter -> TargetersEU
-Telegram -> TargetersEU
+- Discord -> Targeters#1176
+- Discord Server -> discord.gg/YgP2njQh5c
+- Twitter -> TargetersEU
+- Telegram -> TargetersEU
