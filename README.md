@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Targeters a Entrepreneur, Developer and Manager.
-- 👀 If you'r intrested in hiring me for one of the above, feel free to reach out.
-- 🌱 I’m currently learning Java Development and Specialising in discord.js
+- 👀 If you're intrested in hiring me for one of the above, feel free to reach out.
+- 🌱 I’m currently learning Web Development and Specialising in discord.js
 - 📫 You can reach me through discord, twitter or telegram
 
 ✨ Socials ✨
